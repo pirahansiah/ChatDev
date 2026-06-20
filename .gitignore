@@ -8,3 +8,8 @@
 .venv/
 env/
 venv/
+
+# macOS and career assets
+CAREER_IMPACT.md
+._pack-*.idx
+._*
